@@ -7,4 +7,5 @@ huggingface-hub
 python-dotenv
 langchain_huggingface
 streamlit
+tenacity
 gdown

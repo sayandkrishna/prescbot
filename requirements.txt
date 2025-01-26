@@ -9,3 +9,4 @@ langchain_huggingface
 streamlit
 tenacity
 gdown
+openai
